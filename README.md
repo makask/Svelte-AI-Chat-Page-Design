@@ -105,3 +105,5 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+![image](https://github.com/makask/Svelte-AI-Chat-Page-Design/assets/16080688/025c12fd-0469-4926-8737-8a56472cfa3e)
+
